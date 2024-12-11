@@ -1,8 +1,5 @@
 ⚠️ \***\*If you have not heard about who Catrobat is, what we are doing and in what ways you can contribute, then you might want to take a step back and check out the start of our [step-by-step guide](https://github.com/Catrobat/Catroid/blob/develop/README.md).\*\***
 
-
-
-
 ```diff
 👷 TODO: Change link to README in Catrobat's .github repository when added!
 ```
